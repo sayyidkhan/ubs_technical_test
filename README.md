@@ -5,4 +5,4 @@
 
 - 5 mcq questions
 - 1 java question
-- 1 sql question
+- 1 sql question (require the use of inner join + order by)
