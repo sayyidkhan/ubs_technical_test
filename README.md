@@ -7,7 +7,7 @@
 * java concurrency qn (vectors vs arrays) - thread safety
 * http headers
 * java syncronised
-* which data structure can add at the start or end of its list ?
+* which data structure can add at the start or end of its list with N(1) ?
 * 
 ### 1 java question
 * build a banking system
